@@ -41,7 +41,5 @@ Here are some ideas to get you started:
   </p>
 
 
-### 📊 My Stats:
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=WolfYe98&show_icons=true&theme=tokyonight)
-
+### 📊 Most Used Languages:
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WolfYe98&theme=tokyonight)
