@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 🤓 About Me:
-- I'm studied Computer Science Engineering at the University of Granada.
+- I finished Computer Science Engineering at the University of Granada.
 - At the moment, I'm working at GXO Logistics as Junior WMS Developer using ASP.NET.
 - I'm currently leaning ASP.NET Core.
 - I'm also currently developing iSWAD app for iOS devices!
