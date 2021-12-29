@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/bate-ye-6318a1206/)
 
 
-### 📖 Languages and Tools:
+### 📖 Languages and Frameworks:
 <p align="left">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" alt="DotNet" height="40" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
@@ -36,13 +36,17 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" height="40" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/github/explore/d236cc6153f7ab3e68694234be43003b74cfe151/topics/fastify/fastify.png" alt="fastify" height="40" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" alt="aspnet" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt = "react" height="40" style="vertical-align:top; margin:4px">
+</p>
+
+### 🛠 Tools
+<p align="left">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="GIT" height="40" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" alt="Atom" height="40" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png" alt="vscode" height="40" style="vertical-align:top; margin:4px">
-
-</p>
-
-
+ </p>
+  
 ### 📊 Most Used Languages:
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WolfYe98&theme=tokyonight)
