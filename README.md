@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 - I'm developed iSWAD app for iOS devices!
 - I'm also learning now React!
 ### 📫 How to reach me:
-  - [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/bate-ye-6318a1206/)
-  - [GitHub](https://github.com/WolfYe98)
+  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/bate-ye-6318a1206/)
 
 
 ### 📖 Languages and Tools:
