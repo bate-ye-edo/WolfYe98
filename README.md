@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 - I finished Computer Science Engineering at the University of Granada.
 - At the moment, I'm working at GXO Logistics as Junior WMS Developer using ASP.NET.
 - I'm currently leaning ASP.NET Core.
-- I'm also currently developing iSWAD app for iOS devices!
+- I'm developed iSWAD app for iOS devices!
+- I'm also learning now React!
 ### 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/bate-ye-6318a1206/)
   - [GitHub](https://github.com/WolfYe98)
