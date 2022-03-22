@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### 🤓 About Me:
 - I finished Computer Science Engineering at the University of Granada.
-- At the moment, I'm working at GXO Logistics as Junior WMS Developer using ASP.NET.
+- At the moment, I'm working at Accelya as Software Developer using ASP.NET.
 - I'm currently leaning ASP.NET Core.
 - I've developed iSWAD app for iOS devices!
 - I'm also learning now React!
