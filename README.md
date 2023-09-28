@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 🤓 About Me:
-- I finished Computer Science Engineering at the University of Granada.
-- At the moment, I'm working at Accelya as Software Developer using ASP.NET.
-- I'm currently leaning ASP.NET Core.
+- I finished Computer Science Engineering at the University of Granada. 
+- Currently, I'm pursuing a Master's in Web Engineering at the Universidad Politécnica of Madrid.
+- At the moment, I'm working at Accelya as Software Developer using ASP.NET, Java, Typescript, Bootstrap and SQL.
 - I've developed iSWAD app for iOS devices!
-- I'm also learning now React!
+
 ### 📫 How to reach me:
   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/bate-ye-6318a1206/)
 
